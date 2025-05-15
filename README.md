@@ -2,6 +2,11 @@
 
 A real-time Anti-Money Laundering (AML) system that detects suspicious financial transactions using Apache Kafka, machine learning, and an interactive Gradio dashboard.
 
+## 🏛 System Architecture
+
+![AML Pipeline Viz](https://github.com/user-attachments/assets/1974efcb-3e49-458d-bd17-8f15f0efa25c)
+
+
 ## 🚀 Overview
 
 This project addresses limitations in traditional AML systems by combining:
@@ -19,7 +24,7 @@ Key business outcomes:
 
 - Live transaction ingestion and scoring
 - ML-driven risk classification (`HIGH`, `MEDIUM`, `LOW`, `MINIMAL`)
-- Interactive dashboard: risk distribution charts, searchable transaction table, and case drill-down
+- Interactive dashboard: Stream Kafka producer, start fraud detection, monitor high-risk transactions
 - Dockerized Kafka setup
 - Support for both streaming and demo modes
 
