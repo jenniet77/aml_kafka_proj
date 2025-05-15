@@ -56,6 +56,11 @@ Key business outcomes:
 | `main.py` | Predict single transaction to test utils |
 
 ## 🛠️ Setup
+**Clone this repository**
+```bash
+git clone https://github.com/jenniet77/aml_kafka_proj.git
+cd aml_kafka_proj
+```
 **Create a virtual environment**
 ```bash
 python -m venv aml-kafka-env
