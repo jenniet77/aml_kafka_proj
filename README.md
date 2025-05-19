@@ -79,6 +79,9 @@ docker-compose up -d
 python dashboard/gradio_dashboard.py
 ```
 
+## 💻 A Quick Look of the Dashboard
+![Screen Shot 2025-05-19 at 4 58 51 pm](https://github.com/user-attachments/assets/c32d1223-5502-4f72-8276-81e39b0d0f34)
+
 ## 📄 License
 For educational and demonstration purposes only. Not production-hardened.
 <br>📍 Author: Jennie Tang (Capstone Project, 2025)
